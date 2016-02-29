@@ -1,4 +1,4 @@
-#Assignemnt 8.5   
+#Assignment 8.5   
 fileName =  raw_input("Enter the File name:")
 #reading the file
 try:
